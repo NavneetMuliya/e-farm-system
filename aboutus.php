@@ -34,7 +34,7 @@ error_reporting(0);
         <div class="col col-md-6" style="text-align: justify;">
             <br><br><br>
             <h5 class="card-title">E-Farm</h5>
-            <p class="card-text"><u style="color:#007BFF;">E-Farm</u> connects buyers and sellers(large and small) and <br>exchanges information between buyers and Seller.</p>
+            <p class="card-text"><u style="color:#007BFF;">E-Farm</u> connects buyers and sellers(large and small) and <br>exchanges information between buyers and Seller Create connection with Farmers and Buyers.</p>
             <p class="card-text">😍</p>
             <div class="col">
                 <a href="#" style="color:#1878F3; font-size:25px; text-decoration:none;" class="fa fa-facebook"></a>
